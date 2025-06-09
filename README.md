@@ -1,3 +1,5 @@
+# This repository is now archived, please visit the [new dotfiles](https://github.com/agilebuses/dotfiles).
+
 # AgileBuses Linux config
 ## About
 This config is designed specifically for Arch Linux, therefore it might not work properly with other Linux/Mac distros. Since I haven't updated this repository in a while, it may be a bit lacking in content. Apologies for this.
